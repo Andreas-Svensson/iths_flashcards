@@ -11,6 +11,8 @@ To keep up with changes made here, make sure to watch/star this repository. This
 
 Easy ways for all students to add their cards through GitHub will be added soon. In the meantime, if you want to contribute notes in card format, send me a message on any platform and they will be added.  
 
+<br>
+
 #### Quick installation guide:
 1. Download Anki for desktop from [here](https://apps.ankiweb.net/)
 2. Install Anki in english (important for cards to work)
