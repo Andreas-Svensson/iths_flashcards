@@ -1,0 +1,47 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+zJ)}^f:}FX	Basic (and reversed card)	ITHS::Python::Basic	abs(x)	return the absolute value of a number x	function
+B]m>nIt>Ej	Basic (and reversed card)	ITHS::Python::Basic	eval()	attempt to calculate the value of a string	function
+Dw}w8zP:Qr	Basic (and reversed card)	ITHS::Python::Basic	len()	return the length of an object, i.e. how many indices a list has	function
+EqBN}rFkuN	Basic (and reversed card)	ITHS::Python::Basic	min()	return the smallest item in an iterable	function
+mN4doT>tZ=	Basic (and reversed card)	ITHS::Python::Basic	max()	return the largest item in an iterable	function
+yZ7ieEZT.~	Basic (and reversed card)	ITHS::Python::Basic	range()	return a range of numbers	function
+l)<WUd-iro	Basic (and reversed card)	ITHS::Python::Basic	set()	return all unique values in an iterable	function
+Ie+nZ5@g$P	Basic (and reversed card)	ITHS::Python::Basic	type()	return the type of an object	function
+iEi9Zk,rD+	Basic (and reversed card)	ITHS::Python::Basic	zip()	iterate over multiple iterables at the same time	function
+nA[<s*H2[U	Basic (and reversed card)	ITHS::Python::Basic	round(x, n)	return the value closest to x, with precision of n decimals	function
+C)!r%*_Oz@	Basic (and reversed card)	ITHS::Python::Basic	append(x)	add element to the end of a list	function
+A;LSje}J;G	Basic (and reversed card)	ITHS::Python::Basic	count(x)	return number of elements in list with value x	function
+AB3sWT>i;3	Basic (and reversed card)	ITHS::Python::Basic	"""separator"".join(iterable)"	combine items in iterable into a string with a specified separator	function
+s_Uah&9vg3	Basic (and reversed card)	ITHS::Python::Basic	txt.lower()	return a string where all characters are lower case	function
+OX(Yy+w1Sf	Basic (and reversed card)	ITHS::Python::Basic	txt.upper()	return a string where all characters are upper case	function
+"w12@~S-T#F"	Basic (and reversed card)	ITHS::Python::Basic	my_list.insert(n, x)	insert value x at position n of a list	function
+Fb`y{q&Jo6	Basic (and reversed card)	ITHS::Python::Basic	txt.replace(x, y, n)	replace n occurrences of substring x with substring y in a string	function
+k.%j[R({P;	Basic (and reversed card)	ITHS::Python::Basic	my_list.sort()	sort a list	function
+oNkew;ioMk	Basic (and reversed card)	ITHS::Python::Basic	sorted(my_list)	return a sorted list	function
+p^%htyiA5O	Basic (and reversed card)	ITHS::Python::Basic	my_string.split()	turn a string into a list of substrings	function
+"ud#OpsBMq("	Basic (and reversed card)	ITHS::Python::Basic	my_string.strip()	remove leading and trailing whitespace from a string	function
+yh!)&alWNV	Basic (and reversed card)	ITHS::Python::Intermediate	my_list = [x] + my_list	prepend x to my_list using addition operator	function syntax
+uTynr5v{yK	Basic (and reversed card)	ITHS::Python::Intermediate	my_list.insert(0, x)	prepend x to my_list using insert	function syntax
+"K+>n#oM34"	Basic (and reversed card)	ITHS::Python::Intermediate	"<div><div>my_list.sort(<span style=""font-style: italic;"">key</span> = <span style=""font-style: italic;"">lambda</span> <span style=""font-style: italic;"">x</span>: len(<span style=""font-style: italic;"">x</span>))</div></div>"	sort a list of strings to have the shortest item first	function syntax
+"K0:Y>W[#NJ"	Basic (and reversed card)	ITHS::Python::Intermediate	"my_list.sort(<span style=""font-style: italic;"">reverse</span> = True, <span style=""font-style: italic;"">key</span> = <span style=""font-style: italic;"">lambda</span> <span style=""font-style: italic;"">x</span>: len(<span style=""font-style: italic;"">x</span>))"	sort a list of strings to have the longest item first	function syntax
+DnA;R92/NI	Basic	ITHS::Python::Intermediate	does the sort function mutate a list	yes, sort mutates a list	
+qV?gd]<pM!	Basic	ITHS::Python::Intermediate	does the sorted function mutate a list	no, sorted returns a new sorted list	
+xz;J~=j7tA	Basic (and reversed card)	ITHS::Python::Intermediate	<div><div>[i for i in&nbsp;my_list&nbsp;if i ==&nbsp;x]</div></div>	list comprehension to get a list with all values from my_list that are equal to x	syntax
+"uPa]$#rXok"	Basic (and reversed card)	ITHS::Python::Basic	x // y	round a fraction <b>down</b> to the closest integer	operator
+c|K]%4a&3j	Basic	ITHS::Python::Basic	what is 15 // 4	3 (3.75 rounded <b>down</b> to the nearest integer)	operator
+En9;VmOL4F	Basic	ITHS::Python::Basic	what is -15 // 4	-4 (-3.75 rounded <b>down</b> to the nearest integer)	operator
+GON*..6hWN	Basic (and reversed card)	ITHS::Python::Basic	x % y	remainder of a fraction	operator
+nVl5o.g6hW	Basic (and reversed card)	ITHS::Python::Basic	x ** y	x to the power of y	operator
+Q&e_5A%+Mf	Basic (and reversed card)	ITHS::Python::Intermediate	"my_list = my_string.split(<span style=""font-style: italic;"">maxsplit</span> = 1)"	separate a string into a list so the first word becomes index 0, and the rest of the string index 1	function syntax
+ysCsZr!G6n	Basic (and reversed card)	ITHS::Python::Intermediate	my_list = my_string.split(x)	separate a string into elements of a list based on a specific character or sequence of characters	function syntax
+:eW;E7Y2e	Basic (and reversed card)	ITHS::Python::Intermediate	my_string = my_string.strip(characters)	remove any occurrences of multiple characters from the beginning and end of a string	function syntax
+mYyBGf{*(Z	Basic	ITHS::Python::Basic	what does a, b, c stand for in my_list[a:b:c]	start, stop, step<br>which index to begin at, which index to end at, how many indices to move	function syntax
+kBpLvl/{4T	Basic (and reversed card)	ITHS::Python::Intermediate	my_list[::2]	list slicing to get all even indices of a list	syntax
+OHjhz97-=?	Basic (and reversed card)	ITHS::Python::Intermediate	<div><div>my_list[1::2]</div></div>	list slicing to get all uneven indices of a list	syntax
+OsJ<iZLj?U	Basic (and reversed card)	ITHS::Python::Intermediate	<div><div>my_list[:n:]</div></div>	list slicing to get the first n indices of a list	syntax
+F!7J2GtZ`r	Basic (and reversed card)	ITHS::Python::Intermediate	<div><div>my_list[-n::]</div></div>	list slicing to get the last n indices of a list	syntax
