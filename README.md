@@ -9,7 +9,7 @@ The goal of this repo is to share notes in card format between all students of t
 
 To keep up with changes made here, make sure to watch/star this repository. This way you will be notified when new cards or featres are added.
 
-Easy ways for all students to add their cards through GitHub will be added soon. In the meantime, if you want to contribute notes in card format, send me a message on any platform and they will be added.  
+If you use this deck and have your own cards to add, just add them in Anki, export to .txt, and make a pull request with them to this repo. I will review and add them so everyone gets access. More detailed step-by-step guide on this coming soon, if you have problems in the meantime, just send me a message and I can help you out!  
 
 <br>
 
