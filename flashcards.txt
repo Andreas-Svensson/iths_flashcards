@@ -45,3 +45,6 @@ kBpLvl/{4T	Basic (and reversed card)	ITHS::Python::Intermediate	my_list[::2]	lis
 OHjhz97-=?	Basic (and reversed card)	ITHS::Python::Intermediate	<div><div>my_list[1::2]</div></div>	list slicing to get all uneven indices of a list	syntax
 OsJ<iZLj?U	Basic (and reversed card)	ITHS::Python::Intermediate	<div><div>my_list[:n:]</div></div>	list slicing to get the first n indices of a list	syntax
 F!7J2GtZ`r	Basic (and reversed card)	ITHS::Python::Intermediate	<div><div>my_list[-n::]</div></div>	list slicing to get the last n indices of a list	syntax
+q%0i`Jp?0W	Basic (and reversed card)	ITHS::Python::Basic	[x] * n	create an n index long list filled with values of x without using for-loops	operator syntax
+Ey?KzK%{wY	Basic	ITHS::Python::Basic	difference between function and method	a method is a function defined within a class	terminology
+kpx%LD%$RD	Basic	ITHS::Python::Intermediate	difference between __str__ and __repr__	"__str__ is used for ""informal"" or user-friendly representation of an object, primarily to be displayed for the user<br><br>__repr__ is used for ""formal"" or unambiguous representation of an object, primarily for debugging purposes for the programmer<br><br>if both are present __str__ will be the prioritised string representation, use repr by calling repr(my_object)"	terminology
