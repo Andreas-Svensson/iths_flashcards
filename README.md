@@ -1,41 +1,20 @@
 ## Table of Contents
-1. [Introduction]()  
-   1. [What are Flashcards]()  
-   2. [Card and Deck Structure]()  
-   3. [How to Study]()  
-2. [Setup]()  
+ 
+1. [Setup]()  
    1. [Anki Setup]()  
    2. [Download Cards]()  
    3. [Import Cards to Anki]()  
-3. [Using Anki]()  
+2. [Using Anki]()  
    1. [Useful Settings]()  
    2. [Custom Study]()  
-4. [Contributing]()  
+3. [Contributing]()  
    1. [Making Cards]()  
    2. [Sharing Cards]()  
    3. [Feedback and Issues]()  
-5. [Science of Flashcards]()  
+4. [Science of Flashcards]()  
    1. [Active Recall]()  
    2. [Spaced Repetition]()  
 
-# Introduction  
-
-
-
-## What are Flashcards  
-
-
-
-## Card and Deck Structure  
-
-front-back  
-subdecks  
-
-## How to Study  
-
-select deck to study  
-
-<br>
 
 # Setup  
 
