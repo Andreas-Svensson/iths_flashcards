@@ -1,19 +1,19 @@
 ## Table of Contents
  
-1. [Setup]()  
-   1. [Anki Setup]()  
-   2. [Download Cards]()  
-   3. [Import Cards to Anki]()  
-2. [Using Anki]()  
-   1. [Useful Settings]()  
-   2. [Custom Study]()  
-3. [Contributing]()  
-   1. [Making Cards]()  
-   2. [Sharing Cards]()  
-   3. [Feedback and Issues]()  
-4. [Science of Flashcards]()  
-   1. [Active Recall]()  
-   2. [Spaced Repetition]()  
+1. [Setup](#setup)  
+   1. [Anki Setup](#anki-setup)  
+   2. [Download Cards](#download-cards)  
+   3. [Import Cards to Anki](#import-cards-to-anki)  
+2. [Using Anki](#using-anki)  
+   1. [Useful Settings](#useful-settings)  
+   2. [Custom Study](#custom-study)  
+3. [Contributing](#contributing)  
+   1. [Making Cards](#making-cards)  
+   2. [Sharing Cards](#sharing-cards)  
+   3. [Feedback and Issues](#feedback-and-issues)  
+4. [Science of Flashcards](#science-of-flashcards)  
+   1. [Active Recall](#active-recall)  
+   2. [Spaced Repetition](#spaced-repetition)  
 
 
 # Setup  
@@ -160,7 +160,7 @@ Please contribute to this repository by making your own cards in Anki of things 
 
 To add cards to your deck, click Add at the top of the home screen and fill in the card information:  
 
-#### Type  
+### Type  
 How the card will be presented when reviewing  
 
 Basic   
@@ -174,14 +174,14 @@ For example:
 Front to back: see a function, explain what it does  
 Back to front: see a desired outcome, explain which function to use for it  
 
-#### Deck  
+### Deck  
 Which deck to put the card in  
 Always put cards in bottom level subdecks, this will make it easier to structure your studies. For example in ITHS::Python::Basic instead of in ITHS::Python  
 
-#### Front / Back  
+### Front / Back  
 Question or statement / answer or explanation  
 
-#### Tags  
+### Tags  
 Descriptive terms to search and filter cards by  
 
 For example:  
